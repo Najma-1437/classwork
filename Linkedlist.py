@@ -1,4 +1,4 @@
-# Creation of singly linked list using oop
+# Creation of singly linked list
 from symtable import Class
 # inserting at the beginning
 class Node:
