@@ -1,3 +1,4 @@
+
 class TreeNode:
      def __init__(self,value):
          # None is a placeholder for an object
