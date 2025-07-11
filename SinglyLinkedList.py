@@ -1,4 +1,4 @@
-~# Creating a singly linked list#
+~# Creating a singly linked list
 ]
 
 
